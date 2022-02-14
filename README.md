@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dovydasvg
-- Full-stack developer 💻
-- Making the world a better place byte by byte.🌏
-- English Teacher 💡
-- Published Writer 📖
-- 👀 I’m interested in VR, AI, and Web Development.
-- 💞️ I’m looking to collaborate on projects that make the world a better place.
+Full-stack developer | Entrepreneur | Writer | Teacher
+Freelance full-stack developer. ✔️
+3+ years experience working in both startups and established companies. 🔥
+Featured Startuper in Websummit and Digital Ocean. YC Startup School Graduate. 🚀
+Published author in The Startup. Author of "Learn Your English". 📖
+
+Made by hard work with ❤️
